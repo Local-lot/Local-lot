@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Local-lot
-- 👀 I’m interested in learning new things in cs and coding
-- 🌱 I’m currently learning html and css
-- its been 2 months since i started coding so almost everything is confusing for me 
+- I can code using : Python, Cpp, html, css
+- I essentially code using Python & Cpp
+- I learnt, and am learning Cpp to do some Game Dev
